@@ -1,0 +1,10 @@
+# Local tooling state (oh-my-claudecode / Claude Code)
+.omc/
+.claude/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# LibreOffice lock files
+.~lock.*#

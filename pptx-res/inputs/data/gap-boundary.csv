@@ -1,0 +1,6 @@
+arm,idle_gap_minutes,post_gap_turn,cache_write_tokens,cache_read_tokens,cache_state
+ttl-long,70,t4,25134,0,COLD (full rewrite)
+wlA-off,7,t31,27,36858,warm
+wlA-on,7,t28,127,35716,warm
+wlB-off,7,t27,1266,43791,warm
+wlB-on,7,t29,149,45264,warm

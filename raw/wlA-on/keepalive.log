@@ -1,0 +1,6 @@
+[2026-06-22 11:05:41] [CACHE-KEEPALIVE] Stop fired, sleeping 240s before keepalive ping 1/7
+[2026-06-22 11:09:41] [CACHE-KEEPALIVE] sleep done, blocking Stop with keepalive message (1/7)
+[2026-06-22 11:09:44] [CACHE-KEEPALIVE] Stop fired, sleeping 240s before keepalive ping 2/7
+[2026-06-22 11:12:43] [CACHE-KEEPALIVE] interrupted by signal, letting Stop proceed
+[2026-06-22 11:13:35] [CACHE-KEEPALIVE] Stop fired, sleeping 240s before keepalive ping 1/7
+[2026-06-22 11:13:37] [CACHE-KEEPALIVE] interrupted by signal, letting Stop proceed

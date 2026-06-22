@@ -1,0 +1,18 @@
+[10:52:28] === ARM wlA-off (plugin=False, gap=420s) ===
+[11:03:15]   wlA-off run finished in 647s
+[11:03:15]   wlA-off worktree removed
+[11:03:15] ALL DONE
+[11:03:59] SKIP wlA-off (already collected)
+[11:03:59] === ARM wlA-on (plugin=True, gap=420s) ===
+[11:13:38]   wlA-on run finished in 579s
+[11:13:38]   wlA-on worktree removed
+[11:13:38] === ARM wlB-off (plugin=False, gap=420s) ===
+[11:24:07]   wlB-off run finished in 629s
+[11:24:07]   wlB-off worktree removed
+[11:24:07] === ARM wlB-on (plugin=True, gap=420s) ===
+[11:34:55]   wlB-on run finished in 648s
+[11:34:55]   wlB-on worktree removed
+[11:34:55] === ARM ttl-long (plugin=False, gap=4200s) ===
+[12:45:30]   ttl-long run finished in 4235s
+[12:45:30]   ttl-long worktree removed
+[12:45:30] ALL DONE
